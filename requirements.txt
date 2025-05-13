@@ -1,0 +1,7 @@
+flask==2.2.3
+pandas==1.5.3
+nltk==3.7
+gensim==4.1.0
+pyLDAvis==3.3.1
+matplotlib==3.7.1
+contractions==0.1.70
